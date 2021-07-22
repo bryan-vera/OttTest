@@ -145,8 +145,8 @@ namespace OttTest
         {
             //lectura("B-small-practice.in");
             //lectura("B-large-practice.in");
-            spelling("C-small-practice.in");
-            //spelling("C-large-practice.in");
+            //spelling("C-small-practice.in");
+            spelling("C-large-practice.in");
         }
     }
 }
